@@ -1,2 +1,2 @@
-# collinearity
-Collinearity Model
+# Source Code Documentation Collinearity Model
+Coming soon ...
