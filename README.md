@@ -30,7 +30,7 @@ For more in-depth instructions, please read the documentation in the docuSourcec
 
 ## Directory structure
 - root directory: main files for the collinearity model
-- docuSourcecode/: Documentation ([Link](docuSourcecode/index.html))
+- docuSourcecode/: Documentation ([Link](https://fbeuth.github.io/collinearity/docuSourcecode/index.html))
 - data/: Data directory
 - matlabLibs/: Helper Matlab Files
 ## License
