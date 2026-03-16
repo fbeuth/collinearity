@@ -1,0 +1,5 @@
+\_form#0=356x24:$ G\left(x,x0, \sigma,f,\psi \right) = \exp \left(-\frac{(x'_1-x0_1)^2}{2\sigma} + \frac{(x'_2-x0_2)^2}{2 \sigma} \right) \cdot \cos \left(2 \pi f x_1' + \psi \right) $
+\_form#1=124x14:$ x_1' = x_1 \cos \theta + x_2 \sin \theta $
+\_form#2=124x14:$ x_2' = x_1 \sin \theta + x_2 \cos \theta $
+\_form#3=133x15:$ (1/\sqrt{2 \pi \sigma_X}) \cdot (1/\sqrt{2 \pi \sigma_Y}) $
+\_form#4=18x16:$ \frac{1}{2 \sigma^2} $
